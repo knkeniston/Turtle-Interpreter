@@ -1,0 +1,12 @@
+*~
+*.o
+*.dSYM
+*.gch
+turtle
+TurtleFoo/
+TurtleFoo/*
+scannertest
+*.aux
+*.log
+*.synctex.gz
+*.swp
